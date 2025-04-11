@@ -35,10 +35,9 @@ Gross Income:The income remaining after deducting the cost of goods sold from to
 Rating:The customer’s rating of the product or service, usually on a scale (e.g., 1 to 5). This can help in understanding customer satisfaction.
 
 Data Cleaning : 
- Data is almost cleaned Data 
- changed the data type of 'Date' column to datetime
- extracted the day, month, hour, and weekday from the date and time columns
-
+ i) Data is almost cleaned Data . 
+ ii) Changed the data type of 'Date' column to datetime.
+ iii) Extracted the day, month, hour, and weekday from the date and time columns
 
 Created Multiple PoweBI Dashboard's for the Analysis Which Representing :
   1. Sales & Performance Overview
